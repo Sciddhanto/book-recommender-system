@@ -23,4 +23,3 @@ This project implements a **book recommendation system** using machine learning 
 - **popular.pkl**: Serialized file storing popular book data, used for recommending top-rated books.
 - **pt.pkl**: A processed form of the data or an intermediate model for prediction.
 - **similarity_scores.pkl**: Serialized file containing similarity scores used for generating book recommendations based on similarity.
-- 
